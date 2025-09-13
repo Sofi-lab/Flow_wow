@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ebe4947-295d-455e-9a73-1d31eb930a40" name="Changes" comment="Проверка гита">
+    <list default="true" id="0ebe4947-295d-455e-9a73-1d31eb930a40" name="Changes" comment="FEAT: Добавлена логика получения валюты, бэкап в json формате и запись данных в .csv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -109,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757670588806</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="FEAT: Добавлена логика получения валюты, бэкап в json формате и запись данных в .csv">
+      <option name="closed" value="true" />
+      <created>1757759262013</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757759262013</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +164,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="Проверка гита" />
-    <option name="LAST_COMMIT_MESSAGE" value="Проверка гита" />
+    <MESSAGE value="FEAT: Добавлена логика получения валюты, бэкап в json формате и запись данных в .csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="FEAT: Добавлена логика получения валюты, бэкап в json формате и запись данных в .csv" />
   </component>
 </project>
